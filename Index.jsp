@@ -6,3 +6,4 @@
  <body>
    You have reached first page of Release management tool.
  </body>
+  </html>
